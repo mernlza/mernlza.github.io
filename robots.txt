@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mernlza.github.io/sitemap/sitemap.txt
